@@ -17,4 +17,7 @@ think-awesome ThinkPHP5+ 资源整理
 简洁好用的多用户图片社区。 http://www.meiu.cn
 
 ### https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
- GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（提前祝贺大家春节快乐，春运一路畅通！）
+GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（提前祝贺大家春节快乐，春运一路畅通！）
+
+### https://github.com/sl1673495/vue-netease-music
+🎵基于Vue2、Vue-CLI3的高仿网易云mac客户端播放器（PC） Online Music Player https://music.sl1673495.now.sh
