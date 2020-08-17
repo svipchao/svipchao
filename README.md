@@ -21,3 +21,6 @@ GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地�
 
 ### https://github.com/sl1673495/vue-netease-music
 🎵基于Vue2、Vue-CLI3的高仿网易云mac客户端播放器（PC） Online Music Player https://music.sl1673495.now.sh
+
+### https://gitee.com/mirrors/laravel
+Laravel
