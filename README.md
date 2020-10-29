@@ -24,3 +24,6 @@ GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地�
 
 ### https://gitee.com/mirrors/laravel
 Laravel
+
+### https://gitee.com/svipchao/svipchao/blob/master/UA/UA.md
+手机UserAgent库
