@@ -27,3 +27,12 @@ Laravel
 
 ### [手机UserAgent库](https://gitee.com/svipchao/svipchao/blob/master/UA/UA.md)
 手机UserAgent库
+
+### [中国色彩1](http://zhongguose.com/)
+中国色彩1
+
+### [中国色彩2](https://chinese-colors.heyfe.org/)
+中国色彩2
+
+### [日本色彩](https://nipponcolors.com/)
+日本色彩
